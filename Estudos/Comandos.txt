@@ -1,0 +1,11 @@
+ls: Lista todas as pastas do diretório em que você se encontra atualmente.
+cd: Faz com que você navegue da pasta atual para uma determinada pasta.
+cd .. : Volta para uma pasta anterior.
+git config --global user.name SeuNick: Configura um nome de usuário.
+git config --global user.email “seuemail@gmail.com : Configura um e-mail
+git init: Cria um diretório
+git status: Visualiza os status atuais dos arquivos/diretórios.
+git add arquivo.txt: Adiciona um arquivo ou diretório específico (staged area)
+git clone https://github.com/GabrielMMuniz/teste.git: Clona um diretório remoto em sua máquina local.
+
+Estudos realizados em: https://www.dio.me/articles/principais-comandos-git-e-github
